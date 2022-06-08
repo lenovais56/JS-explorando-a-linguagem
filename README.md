@@ -8,7 +8,9 @@
 
 <p>
   
-  ``Exercícios executados no curso de JavaScript: explorando a linguagem da Alura``
+  ``Exercícios executados no curso de JavaScript: explorando a linguagem``
+
+  ``Instituição: Alura``
   
   ``Instrutor: Ricardo Bugan Debs``
 
